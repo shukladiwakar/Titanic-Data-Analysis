@@ -9,3 +9,7 @@ The dataset is loaded on to the HDFS with the following command
 
 The command used to run the MR code is as follows.
 ## hadoop jar /home/diwakar/Desktop/Hadoop/final-jarfiles/Titanic.jar Female_survived /Projects/TitanicData.txt /op7
+
+### The ouput can be seen in two output files.
+  *output1
+  *output2
